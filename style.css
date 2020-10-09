@@ -1,0 +1,20 @@
+.container{
+    margin-bottom: 50px;
+}
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #FF5898 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.col-md-2 h3{
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    color: lightgray;
+    font-size: 300%;
+}
+.col-md-4{
+    padding: 5px;
+}
