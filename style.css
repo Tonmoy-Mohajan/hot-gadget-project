@@ -22,3 +22,28 @@
     border: none;
     box-shadow: 5px 5px 10px lightgray;
 }
+.see{
+    margin-top: 50px;
+    color: rgb(240, 180, 15);
+    cursor: pointer;
+}
+.catagories{
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+.perfume{
+    margin-bottom: 30px;
+}
+.cat1, .cat2, .cat3{
+    border: none;
+    box-shadow: 5px 5px 10px lightblue;
+}
+.cat1{
+    margin-left: 80px;
+}
+.phone{
+    margin-top: 50px;
+}
+.laptop{
+    margin-top: 50px;
+}
